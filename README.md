@@ -1,2 +1,2 @@
-# Makroekonomia
-Użycie analizy danych w makroekonomii
+# Makroekonomia - Projekt analizy parytetu stóp procentowych
+
