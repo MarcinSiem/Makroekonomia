@@ -1,2 +1,2 @@
-# Makroekonomia - Projekt analizy parytetu stóp procentowych
+# Makroekonomia - analiza parytetu stóp procentowych
 
